@@ -29,7 +29,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 
 | estudiante | enlace |
 |--------------|------|
-| estudiante02 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+| TARMIII| [Bitácora]([https://github.com/misaaaaaa/TACO122-037-electronica2025#](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)) |
 | estudiante03 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante04 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante05 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
